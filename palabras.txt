@@ -1,0 +1,4 @@
+Python
+Kubernetes
+Programación orientada a objetos
+Principios solid
